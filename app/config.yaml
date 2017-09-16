@@ -1,0 +1,9 @@
+mysql:
+  database: aiohttpdb
+  user: root
+  password: pqc19960320
+  host: localhost
+  port: 3306
+
+host: 127.0.0.1
+port: 8080
